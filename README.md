@@ -11,9 +11,170 @@ Per a fer la instal·lació bàsica només cal descarregar l'arxiu executable i 
 En l'apartat **Deployment** hi trovarpas informació avançada de com fer altres tipus d'instal·laacions.
 
 
-### Pre-requisitos 📋
+### Requisits 📋
 
 _Que cosas necesitas para instalar el software y como instalarlas_
+<table class="tabla-datos">
+       <thead>
+        <tr>
+                 <th class="align-left highlight-column-start highlight-column">
+       <p>Requisitos</p>
+      </th>
+                 <th class="align-left">
+       <p>mínimos</p>
+      </th>
+                 <th class="align-left">
+       <p>Recomendados</p>
+      </th>
+                 <th class="align-left">
+       <p>altos</p>
+      </th>
+                 <th class="align-left">
+       <p>Ultra</p>
+      </th>
+    </tr>
+ 
+    </thead>
+      <tbody>
+       <tr>
+                 <th class="align-left highlight-column">
+       <p>RESOLUCIÓN</p>
+      </th>
+                 <td class="align-left">
+       <p>1080p</p>
+      </td>
+                 <td class="align-left">
+       <p>1080p</p>
+      </td>
+                 <td class="align-left">
+       <p>1440p</p>
+      </td>
+                 <td class="align-left">
+       <p>2160p</p>
+      </td>
+    </tr>
+   <tr>
+                 <th class="align-left highlight-column">
+       <p>Ajustes gráficos</p>
+      </th>
+                 <td class="align-left">
+       <p>Bajo</p>
+      </td>
+                 <td class="align-left">
+       <p>Alto</p>
+      </td>
+                 <td class="align-left">
+       <p>Ultra</p>
+      </td>
+                 <td class="align-left">
+       <p>Ultra</p>
+      </td>
+    </tr>
+   <tr>
+                 <th class="align-left highlight-column">
+       <p>Sistema Operativo</p>
+      </th>
+                 <td class="align-left">
+       <p>Windows 7 de 64 bits o Windows 10 de 64 bits</p>
+      </td>
+                 <td class="align-left">
+       <p>Windows 10 de 64 bits</p>
+      </td>
+                 <td class="align-left">
+       <p>Windows 10 de 64 bits</p>
+      </td>
+                 <td class="align-left">
+       <p>Windows 10 de 64 bits</p>
+      </td>
+    </tr>
+   <tr>
+                 <th class="align-left highlight-column">
+       <p>Procesador</p>
+      </th>
+                 <td class="align-left">
+       <p>Intel Core i5-3570K o AMD FX-8310</p>
+      </td>
+                 <td class="align-left">
+       <p>Intel Core i7-4790 o AMD Ryzen 3 3200G</p>
+      </td>
+                 <td class="align-left">
+       <p>Intel Core i7-4790 o AMD Ryzen 3 3200G</p>
+      </td>
+                 <td class="align-left">
+       <p>Intel Core i7-4790 o AMD Ryzen 5 3600</p>
+      </td>
+    </tr>
+   <tr>
+                 <th class="align-left highlight-column">
+       <p>Memoria ram</p>
+      </th>
+                 <td class="align-left">
+       <p>8 GB</p>
+      </td>
+                 <td class="align-left">
+       <p>12 GB</p>
+      </td>
+                 <td class="align-left">
+       <p>12 GB</p>
+      </td>
+                 <td class="align-left">
+       <p>16 GB</p>
+      </td>
+    </tr>
+   <tr>
+                 <th class="align-left highlight-column">
+       <p>Tarjeta gráfica</p>
+      </th>
+                 <td class="align-left">
+       <p>GTX 780 o Radeon RX 470</p>
+      </td>
+                 <td class="align-left">
+       <p>GTX 1060 6 GB o Radeon RX 590</p>
+      </td>
+                 <td class="align-left">
+       <p>RTX 2060 o Radeon RX 5700 XT</p>
+      </td>
+                 <td class="align-left">
+       <p>RTX 2080S, RTX 3070 o Radeon RX 6900 XT</p>
+      </td>
+    </tr>
+   <tr>
+                 <th class="align-left highlight-column">
+       <p>vram</p>
+      </th>
+                 <td class="align-left">
+       <p>3 GB</p>
+      </td>
+                 <td class="align-left">
+       <p>6 GB</p>
+      </td>
+                 <td class="align-left">
+       <p>6 GB</p>
+      </td>
+                 <td class="align-left">
+       <p>8 GB</p>
+      </td>
+    </tr>
+   <tr>
+                 <th class="align-left highlight-column highlight-column-end">
+       <p>Disco duro</p>
+      </th>
+                 <td class="align-left">
+       <p>70 GB (SSD recomendado)</p>
+      </td>
+                 <td class="align-left">
+       <p>70 GB en un SSD</p>
+      </td>
+                 <td class="align-left">
+       <p>70 GB en un SSD</p>
+      </td>
+                 <td class="align-left">
+       <p>70 GB en un SSD</p>
+      </td>
+    </tr>
+ 
+   </tbody>
+  </table>
 
 ```
 Da un ejemplo
