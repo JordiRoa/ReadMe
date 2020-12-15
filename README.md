@@ -1,6 +1,6 @@
-# Título del Proyecto
+# CyberPunk2077
 
-_Acá va un párrafo que describa lo que es el proyecto_
+_Adaptat de l'joc de rol Cyberpunk 2020, s'estableix cinquanta-set anys més tard a la ciutat distòpica de Night City, Califòrnia. És un món obert amb sis districtes diferents, amb una perspectiva de primera persona i els jugadors assumeixen el paper de el personatge personalitzable anomenat V, els que poden millorar les seves estadístiques amb experiència. V té un arsenal d'armes i opcions per combat cos a cos, els quals poden ser modificats._
 
 ## Comenzando 🚀
 
