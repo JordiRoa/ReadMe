@@ -190,29 +190,17 @@ _Modifiquem i executem els arxius que queden en el directori que s'ha clonat_
 ```
 CyberPunk.exe
 ```
-## Construido con 🛠️
+## Fet amb 🛠️
 
 _CyberPunk 2077 ha sigut desenvolupat amb_
 
 * [REDengine](https://ru.wikipedia.org/wiki/REDengine) - Motor gràfic d'última generació
 <br>![Foto REDengine](https://upload.wikimedia.org/wikipedia/ru/thumb/a/ae/REDengine_logo.png/220px-REDengine_logo.png)
 * [Tecnologia RTX by Nvidia](https://www.cyberpunk.net/es/es/) - GeForce RTX Series
-<br>![Foto REDengine](https://hooli.com.do/wp-content/uploads/2020/08/logo-nvidia-geforce-rtx.png)
+<br>![Foto RTX](https://images.evga.com/articles/01317/NV_RTX_Badge.png)
 
 
-## Contribuyendo 🖇️
-
-Por favor lee el [CONTRIBUTING.md](https://gist.github.com/villanuevand/xxxxxx) para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
-
-## Wiki 📖
-
-Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](https://github.com/tu/proyecto/wiki)
-
-## Versionado 📌
-
-Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/tu/proyecto/tags).
-
-## Autores ✒️
+## Autors ✒️
 
 _Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
 
@@ -221,16 +209,10 @@ _Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios
 
 También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto. 
 
-## Licencia 📄
+## Llicència 📄
 
-Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
+Aquest projecte està sota la Licencia MIT - Consultar l'arxiu [LICENSE.md](LICENSE.md) per a més detalls
 
-## Expresiones de Gratitud 🎁
-
-* Comenta a otros sobre este proyecto 📢
-* Invita una cerveza 🍺 o un café ☕ a alguien del equipo. 
-* Da las gracias públicamente 🤓.
-* etc.
 
 
 
