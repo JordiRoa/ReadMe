@@ -195,7 +195,7 @@ CyberPunk.exe
 _CyberPunk 2077 ha sigut desenvolupat amb_
 
 * [REDengine](https://ru.wikipedia.org/wiki/REDengine) 
-![Foto REDengine](https://upload.wikimedia.org/wikipedia/ru/thumb/a/ae/REDengine_logo.png/220px-REDengine_logo.png)
+<br>![Foto REDengine](https://upload.wikimedia.org/wikipedia/ru/thumb/a/ae/REDengine_logo.png/220px-REDengine_logo.png)
 * [Maven](https://maven.apache.org/) - Manejador de dependencias
 * [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
 
