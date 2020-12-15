@@ -197,7 +197,7 @@ _CyberPunk 2077 ha sigut desenvolupat amb_
 * [REDengine](https://ru.wikipedia.org/wiki/REDengine) - Motor gràfic d'última generació
 <br>![Foto REDengine](https://upload.wikimedia.org/wikipedia/ru/thumb/a/ae/REDengine_logo.png/220px-REDengine_logo.png)
 * [Tecnologia RTX by Nvidia](https://www.cyberpunk.net/es/es/) - GeForce RTX Series
-<br>![Foto REDengine](https://www.cyberpunk.net/build/images/footer/nvidia-logo-e62c728f.svg)
+<br>![Foto REDengine](https://hooli.com.do/wp-content/uploads/2020/08/logo-nvidia-geforce-rtx.png)
 
 
 ## Contribuyendo 🖇️
