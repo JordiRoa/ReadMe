@@ -13,8 +13,8 @@ En l'apartat **Deployment** hi trovarpas informació avançada de com fer altres
 
 ### Requisits 📋
 
-_Que cosas necesitas para instalar el software y como instalarlas_
-<table class="tabla-datos">
+_Aquests són els requisists que necessites per a poder jugar a CyberPunk2077_
+<table>
        <thead>
         <tr>
                  <th>
@@ -175,31 +175,23 @@ _Que cosas necesitas para instalar el software y como instalarlas_
    </tbody>
   </table>
 
-```
-Da un ejemplo
-```
 
-### Instalación 🔧
 
-_Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
+### Utilitzar 🔧
 
-_Dí cómo será ese paso_
+_Clonem el repositori_
 
 ```
-Da un ejemplo
+$ git clone https://github.com/RoactionMan/ReadMe.git
 ```
 
-_Y repite_
+_Modifiquem i executem els arxius que queden en el directori que s'ha clonat_
 
 ```
-hasta finalizar
+CyberPunk.exe
 ```
 
 _Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
-
-## Ejecutando las pruebas ⚙️
-
-_Explica como ejecutar las pruebas automatizadas para este sistema_
 
 ### Analice las pruebas end-to-end 🔩
 
