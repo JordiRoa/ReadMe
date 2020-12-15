@@ -202,19 +202,11 @@ _CyberPunk 2077 ha sigut desenvolupat amb_
 
 ## Autors ✒️
 
-_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
+* **Jordi Roa Aymerich** - *CEO CDPROJEKT* - [CYBERPUNK](https://github.com/RoactionMan/ReadMe)
+* **Jordi Ortiz** - *DIRECTOR REGIONAL* - [CYBERPUNK](https://github.com/RoactionMan/ReadMe)
+* **Jairo** - *PROGRAMADOR JUNIOR* - [CYBERPUNK](https://github.com/RoactionMan/ReadMe)
 
-* **Andrés Villanueva** - *Trabajo Inicial* - [villanuevand](https://github.com/villanuevand)
-* **Fulanito Detal** - *Documentación* - [fulanitodetal](#fulanito-de-tal)
-
-También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto. 
 
 ## Llicència 📄
 
 Aquest projecte està sota la Licencia MIT - Consultar l'arxiu [LICENSE.md](LICENSE.md) per a més detalls
-
-
-
-
----
-⌨️ con ❤️ por [Villanuevand](https://github.com/Villanuevand) 😊
