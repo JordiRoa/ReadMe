@@ -2,11 +2,13 @@
 
 _Adaptat de l'joc de rol Cyberpunk 2020, s'estableix cinquanta-set anys més tard a la ciutat distòpica de Night City, Califòrnia. És un món obert amb sis districtes diferents, amb una perspectiva de primera persona i els jugadors assumeixen el paper de el personatge personalitzable anomenat V, els que poden millorar les seves estadístiques amb experiència. V té un arsenal d'armes i opcions per combat cos a cos, els quals poden ser modificats._
 
-## Comenzando 🚀
+## Començament 🚀
 
-_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
+_Instruccions bàsiques sobre com obrir el projecte._
 
-Mira **Deployment** para conocer como desplegar el proyecto.
+Per a fer la instal·lació bàsica només cal descarregar l'arxiu executable i seguir els passos de l'asistent d'instal·lació.
+
+En l'apartat **Deployment** hi trovarpas informació avançada de com fer altres tipus d'instal·laacions.
 
 
 ### Pre-requisitos 📋
