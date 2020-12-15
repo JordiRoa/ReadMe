@@ -17,158 +17,157 @@ _Que cosas necesitas para instalar el software y como instalarlas_
 <table class="tabla-datos">
        <thead>
         <tr>
-                 <th class="align-left highlight-column-start highlight-column">
+                 <th>
        <p>Requisitos</p>
       </th>
-                 <th class="align-left">
+                 <th >
        <p>mínimos</p>
       </th>
-                 <th class="align-left">
+                 <th >
        <p>Recomendados</p>
       </th>
-                 <th class="align-left">
+                 <th >
        <p>altos</p>
       </th>
-                 <th class="align-left">
+                 <th >
        <p>Ultra</p>
       </th>
     </tr>
- 
     </thead>
       <tbody>
        <tr>
-                 <th class="align-left highlight-column">
+                 <th >
        <p>RESOLUCIÓN</p>
       </th>
-                 <td class="align-left">
+                 <td >
        <p>1080p</p>
       </td>
-                 <td class="align-left">
+                 <td >
        <p>1080p</p>
       </td>
-                 <td class="align-left">
+                 <td >
        <p>1440p</p>
       </td>
-                 <td class="align-left">
+                 <td >
        <p>2160p</p>
       </td>
     </tr>
    <tr>
-                 <th class="align-left highlight-column">
+                 <th >
        <p>Ajustes gráficos</p>
       </th>
-                 <td class="align-left">
+                 <td >
        <p>Bajo</p>
       </td>
-                 <td class="align-left">
+                 <td >
        <p>Alto</p>
       </td>
-                 <td class="align-left">
+                 <td >
        <p>Ultra</p>
       </td>
-                 <td class="align-left">
+                 <td >
        <p>Ultra</p>
       </td>
     </tr>
    <tr>
-                 <th class="align-left highlight-column">
+                 <th >
        <p>Sistema Operativo</p>
       </th>
-                 <td class="align-left">
+                 <td >
        <p>Windows 7 de 64 bits o Windows 10 de 64 bits</p>
       </td>
-                 <td class="align-left">
+                 <td >
        <p>Windows 10 de 64 bits</p>
       </td>
-                 <td class="align-left">
+                 <td >
        <p>Windows 10 de 64 bits</p>
       </td>
-                 <td class="align-left">
+                 <td >
        <p>Windows 10 de 64 bits</p>
       </td>
     </tr>
    <tr>
-                 <th class="align-left highlight-column">
+                 <th >
        <p>Procesador</p>
       </th>
-                 <td class="align-left">
+                 <td >
        <p>Intel Core i5-3570K o AMD FX-8310</p>
       </td>
-                 <td class="align-left">
+                 <td >
        <p>Intel Core i7-4790 o AMD Ryzen 3 3200G</p>
       </td>
-                 <td class="align-left">
+                 <td >
        <p>Intel Core i7-4790 o AMD Ryzen 3 3200G</p>
       </td>
-                 <td class="align-left">
+                 <td >
        <p>Intel Core i7-4790 o AMD Ryzen 5 3600</p>
       </td>
     </tr>
    <tr>
-                 <th class="align-left highlight-column">
+                 <th >
        <p>Memoria ram</p>
       </th>
-                 <td class="align-left">
+                 <td >
        <p>8 GB</p>
       </td>
-                 <td class="align-left">
+                 <td >
        <p>12 GB</p>
       </td>
-                 <td class="align-left">
+                 <td >
        <p>12 GB</p>
       </td>
-                 <td class="align-left">
+                 <td >
        <p>16 GB</p>
       </td>
     </tr>
    <tr>
-                 <th class="align-left highlight-column">
+                 <th >
        <p>Tarjeta gráfica</p>
       </th>
-                 <td class="align-left">
+                 <td >
        <p>GTX 780 o Radeon RX 470</p>
       </td>
-                 <td class="align-left">
+                 <td >
        <p>GTX 1060 6 GB o Radeon RX 590</p>
       </td>
-                 <td class="align-left">
+                 <td >
        <p>RTX 2060 o Radeon RX 5700 XT</p>
       </td>
-                 <td class="align-left">
+                 <td >
        <p>RTX 2080S, RTX 3070 o Radeon RX 6900 XT</p>
       </td>
     </tr>
    <tr>
-                 <th class="align-left highlight-column">
+                 <th >
        <p>vram</p>
       </th>
-                 <td class="align-left">
+                 <td >
        <p>3 GB</p>
       </td>
-                 <td class="align-left">
+                 <td >
        <p>6 GB</p>
       </td>
-                 <td class="align-left">
+                 <td >
        <p>6 GB</p>
       </td>
-                 <td class="align-left">
+                 <td >
        <p>8 GB</p>
       </td>
     </tr>
    <tr>
-                 <th class="align-left highlight-column highlight-column-end">
+                 <th >
        <p>Disco duro</p>
       </th>
-                 <td class="align-left">
+                 <td >
        <p>70 GB (SSD recomendado)</p>
       </td>
-                 <td class="align-left">
+                 <td >
        <p>70 GB en un SSD</p>
       </td>
-                 <td class="align-left">
+                 <td >
        <p>70 GB en un SSD</p>
       </td>
-                 <td class="align-left">
+                 <td >
        <p>70 GB en un SSD</p>
       </td>
     </tr>
