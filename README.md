@@ -7,6 +7,7 @@ _Adaptat de l'joc de rol Cyberpunk 2020, s'estableix cinquanta-set anys més tar
 _Instruccions bàsiques sobre com obrir el projecte._
 
 Per a fer la instal·lació bàsica només cal descarregar l'arxiu executable i seguir els passos de l'asistent d'instal·lació.
+Els controls bàsics són teclat wasd i ratolí. També té compatibilitat amb mando.
 
 En l'apartat **Deployment** hi trovarpas informació avançada de com fer altres tipus d'instal·laacions.
 
